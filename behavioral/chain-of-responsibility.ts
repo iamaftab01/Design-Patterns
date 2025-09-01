@@ -11,7 +11,7 @@ Example: HTTP Request Validation Pipeline
 export {}
 interface Handler {
   setNext(handler: Handler): Handler;
-  handle(requset: any): any;
+  handle(request: any): any;
 }
 
 abstract class AbstractHandler implements Handler {

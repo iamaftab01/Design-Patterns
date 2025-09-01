@@ -1,6 +1,6 @@
 /*
 
-The Composite Structural Design Pattren is used to treat individual objects and compoistion (objects linked to objects)
+The Composite Structural Design Pattern is used to treat individual objects and compoistion (objects linked to objects)
 of objects uniformly. It’s ideal for representing part-whole hierarchies like folders/files, menus/submenus, etc.
 
 Example: 
